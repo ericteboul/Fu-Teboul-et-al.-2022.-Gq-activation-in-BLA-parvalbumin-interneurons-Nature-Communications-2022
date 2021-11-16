@@ -9,9 +9,9 @@ MATLAB version tested: R2019b, R2021b
 
 Python dependencies: 
 
-numpy 
-pandas 
-scipy 
+	numpy 
+	pandas 
+	scipy 
 
 Non-standard hardware required? No 
 
