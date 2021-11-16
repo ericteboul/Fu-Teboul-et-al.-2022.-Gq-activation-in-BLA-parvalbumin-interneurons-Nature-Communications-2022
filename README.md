@@ -1,4 +1,4 @@
-# Fu-Teboul-et-al.-Nature-Communications-Submission-Software-and-Code 
+# Fu&Teboul-et-al.-Nature-Communications-Submission-Software-and-Code 
 
 This repository includes the necessary files required to analyze acquired in vivo and ex vivo
 extracellular field data, including example data and outcomes at all stages of the analysis protocol. 
