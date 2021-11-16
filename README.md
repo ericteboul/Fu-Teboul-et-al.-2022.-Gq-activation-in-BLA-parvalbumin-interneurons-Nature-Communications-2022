@@ -39,18 +39,18 @@ Expected run time for demo on a "normal" desktop computer: 5-10 minutes includin
    post-processing in Python 
 
 	a. 	See [MAtWAND](https://pantelisantonoudiou.github.io/MatWAND/) for installation and general 
-		operation instructions. See [spectral analysis](/docs/spectral_analysis_processing.md) for 
+		operation instructions. See [spectral analysis doc](/docs/spectral_analysis_processing.md) for 
   	     	manuscript-specific MatWAND operation instructions included in 'MATLAB Scripts' branch. 
 
 	b. 	See provided expected outcomes in 'Example-Data-and-Expected_Outcomes' branch.   
 
 3. Organize exported power area data in Python 
 
-	a. 	See 'organize_power' folder for experiment-specific analysis scripts 
+	a. 	See [organize_power](/organize_power) folder for experiment-specific analysis scripts 
 
-	b. 	See [organize power](/docs/organize_power_data.md) provided in 'Python-Scripts' branch for Python script operation instructions. 
+	b. 	See [organize power doc](/docs/organize_power_data.md) provided in 'Python-Scripts' branch for Python script operation instructions. 
 
-	c. 	See [organize power](/docs/organize_power_data.md) provided in 'Python-Scripts' branch for export instructions for analysis in GraphPad Prism 
+	c. 	See [organize power doc](/docs/organize_power_data.md) provided in 'Python-Scripts' branch for export instructions for analysis in GraphPad Prism 
 
 4. Organize and analyze processed MatWAND data for distribution analysis in MATLAB 
 
