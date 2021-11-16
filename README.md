@@ -20,7 +20,8 @@ Tested on a Dell XPS 15 running Windows 10 Home:
 	Processor - Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz   2.60 GHz 
 	RAM - 16.0 GB (15.9 GB usable) 
 	System type - 64-bit operating system, x64-based processor 
-Tested on a Lenovo ThinkCentre running Windows 10 Enterprise 
+Tested on a Lenovo ThinkCentre running Windows 10 Enterprise: 
+
 	Processor - Intel(R) Core(TM) i5-7600T CPU @ 2.80 GHz   2.81GHz  
 	RAM - 16.0 GB (15.9 GB usable) 
 	System type - 64-bit operating system, x64-based processor 
