@@ -15,6 +15,7 @@ scipy
 Non-standard hardware required? No 
 
 Typical install time on a "normal" windows computer: plug and play MATLAB and Python code. No install time. 
+
 Tested on a Dell XPS 15 running Windows 10 Home: 
 
 	Processor - Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz   2.60 GHz 
