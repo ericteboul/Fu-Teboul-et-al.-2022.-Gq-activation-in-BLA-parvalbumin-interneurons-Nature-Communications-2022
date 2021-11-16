@@ -26,7 +26,7 @@ Tested on a Lenovo ThinkCentre running Windows 10 Enterprise
 
 Expected run time for demo on a "normal" desktop computer: 5-10 minutes including all steps
 
------ Standard Operating Procedure ------------- 
+# ----- Standard Operating Procedure ------------- 
 
 1. Export LFP data from LabChart File 
    (example exported LabChart data included in 'Example-Data' branch) 
