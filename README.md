@@ -54,7 +54,7 @@ Expected run time for demo on a "normal" desktop computer: 5-10 minutes includin
 
 4. Organize and analyze processed MatWAND data for distribution analysis in MATLAB 
 
-	a. 	See main.m included in 'MATLAB Scripts' branch for analysis script with included instructions
+	a. 	See [main.m](/tail_analysis/main.m) included in 'MATLAB Scripts' branch for analysis script with included instructions
 	
 
 
