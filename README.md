@@ -44,9 +44,9 @@ b. 	See provided expected outcomes in 'Example-Data-and-Expected_Outcomes' branc
 
 a. 	See 'Python-Scripts' branch for experiment-specific analysis scripts 
 
-b. 	See Python_Post-Processing_ReadMe.txt provided in 'Python-Scripts' branch for Python script operation instructions. 
+b. 	See Python_Post-Processing_ReadMe ('Python-Scripts/README.md') provided in 'Python-Scripts' branch for Python script operation instructions. 
 
-c. 	See Python_Post-Processing_ReadMe.txt provided in 'Python-Scripts' branch for export instructions for analysis in GraphPad Prism 
+c. 	See Python_Post-Processing_ReadMe ('Python-Scripts/README.md') provided in 'Python-Scripts' branch for export instructions for analysis in GraphPad Prism 
 
 3b. Organize and analyze processed MatWAND data for distribution analysis in MATLAB 
 
