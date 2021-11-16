@@ -34,23 +34,23 @@ Expected run time for demo on a "normal" desktop computer: 5-10 minutes includin
 2. Process exported LFP data in MatWAND. Export processed power area data for 
    post-processing in Python 
 
-a. 	See https://pantelisantonoudiou.github.io/MatWAND/ for installation and general 
-	operation instructions. See 'MatWAND_Pre-Processing&Spectral_analysis_ReadMe.txt' for 
-  manuscript-specific MatWAND operation instructions included in 'MATLAB Scripts' branch. 
+	a. 	See https://pantelisantonoudiou.github.io/MatWAND/ for installation and general 
+		operation instructions. See 'MatWAND_Pre-Processing&Spectral_analysis_ReadMe.txt' for 
+  	     	manuscript-specific MatWAND operation instructions included in 'MATLAB Scripts' branch. 
 
-b. 	See provided expected outcomes in 'Example-Data-and-Expected_Outcomes' branch.   
+	b. 	See provided expected outcomes in 'Example-Data-and-Expected_Outcomes' branch.   
 
 3a. Organize exported power area data in Python 
 
-a. 	See 'Python-Scripts' branch for experiment-specific analysis scripts 
+	a. 	See 'Python-Scripts' branch for experiment-specific analysis scripts 
 
-b. 	See Python_Post-Processing_ReadMe ('Python-Scripts/README.md') provided in 'Python-Scripts' branch for Python script operation instructions. 
+	b. 	See Python_Post-Processing_ReadMe ('Python-Scripts/README.md') provided in 'Python-Scripts' branch for Python script operation instructions. 
 
-c. 	See Python_Post-Processing_ReadMe ('Python-Scripts/README.md') provided in 'Python-Scripts' branch for export instructions for analysis in GraphPad Prism 
+	c. 	See Python_Post-Processing_ReadMe ('Python-Scripts/README.md') provided in 'Python-Scripts' branch for export instructions for analysis in GraphPad 		    Prism 
 
 3b. Organize and analyze processed MatWAND data for distribution analysis in MATLAB 
 
-a. 	See main.m included in 'MATLAB Scripts' branch for analysis script with included instructions
+	a. 	See main.m included in 'MATLAB Scripts' branch for analysis script with included instructions
 	
 
 
