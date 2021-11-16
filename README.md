@@ -46,7 +46,7 @@ Expected run time for demo on a "normal" desktop computer: 5-10 minutes includin
 
 	b. 	See Python_Post-Processing_ReadMe ('Python-Scripts/README.md') provided in 'Python-Scripts' branch for Python script operation instructions. 
 
-	c. 	See Python_Post-Processing_ReadMe ('Python-Scripts/README.md') provided in 'Python-Scripts' branch for export instructions for analysis in GraphPad 		    Prism 
+	c. 	See Python_Post-Processing_ReadMe ('Python-Scripts/README.md') provided in 'Python-Scripts' branch for export instructions for analysis in GraphPad Prism 
 
 3b. Organize and analyze processed MatWAND data for distribution analysis in MATLAB 
 
