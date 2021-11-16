@@ -40,7 +40,7 @@ Expected run time for demo on a "normal" desktop computer: 5-10 minutes includin
 
 	b. 	See provided expected outcomes in 'Example-Data-and-Expected_Outcomes' branch.   
 
-3a. Organize exported power area data in Python 
+3. Organize exported power area data in Python 
 
 	a. 	See 'Python-Scripts' branch for experiment-specific analysis scripts 
 
@@ -48,7 +48,7 @@ Expected run time for demo on a "normal" desktop computer: 5-10 minutes includin
 
 	c. 	See Python_Post-Processing_ReadMe ('Python-Scripts/README.md') provided in 'Python-Scripts' branch for export instructions for analysis in GraphPad Prism 
 
-3b. Organize and analyze processed MatWAND data for distribution analysis in MATLAB 
+4. Organize and analyze processed MatWAND data for distribution analysis in MATLAB 
 
 	a. 	See main.m included in 'MATLAB Scripts' branch for analysis script with included instructions
 	
