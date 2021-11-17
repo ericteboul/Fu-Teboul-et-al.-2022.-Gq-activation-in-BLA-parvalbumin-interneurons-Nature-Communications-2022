@@ -33,28 +33,28 @@ Expected run time for demo on a "normal" desktop computer: 5-10 minutes includin
 # ----- Standard Operating Procedure ------------- 
 
 1. Export LFP data from LabChart File 
-   (example exported LabChart data included in 'Example-Data' branch) 
+   (example exported LabChart data included in zipped folder with submission) 
 
 2. Process exported LFP data in MatWAND. Export processed power area data for 
    post-processing in Python 
 
 	a. 	See [MAtWAND](https://pantelisantonoudiou.github.io/MatWAND/) for installation and general 
 		operation instructions. See [spectral analysis doc](/docs/spectral_analysis_processing.md) for 
-  	     	manuscript-specific MatWAND operation instructions included in 'MATLAB Scripts' branch. 
+  	     	manuscript-specific MatWAND operation instructions.  
 
-	b. 	See provided expected outcomes in 'Example-Data-and-Expected_Outcomes' branch.   
+	b. 	See provided zipped file with submission for expected outcomes for sample data.    
 
 3. Organize exported power area data in Python 
 
 	a. 	See [organize_power](/organize_power) folder for experiment-specific analysis scripts 
 
-	b. 	See [organize power doc](/docs/organize_power_data.md) provided in 'Python-Scripts' branch for Python script operation instructions. 
+	b. 	See [organize power doc](/docs/organize_power_data.md) for Python script operation instructions. 
 
-	c. 	See [organize power doc](/docs/organize_power_data.md) provided in 'Python-Scripts' branch for export instructions for analysis in GraphPad Prism 
+	c. 	See [organize power doc](/docs/organize_power_data.md) for export instructions for analysis in GraphPad Prism 
 
 4. Organize and analyze processed MatWAND data for distribution analysis in MATLAB 
 
-	a. 	See [main.m](/tail_analysis/main.m) included in 'MATLAB Scripts' branch for analysis script with included instructions
+	a. 	See [main.m](/tail_analysis/main.m) for analysis script with included instructions
 	
 
 
