@@ -3,6 +3,8 @@
 This repository includes the necessary files required to analyze acquired in vivo and ex vivo
 extracellular field data, including example data and outcomes at all stages of the analysis protocol. 
 
+example data and outcomes [can be downloaded here:](https://drive.google.com/drive/folders/1brujKaQmTLo7rw-BgPGWlOZ5_E5DU4KH?usp=sharing) 
+
 Python version tested: 3.8.8 
 Python IDE tested: Spyder 4.2.1 
 MATLAB version tested: R2019b, R2021b
